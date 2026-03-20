@@ -1,4 +1,4 @@
-# akaraka | Translation Portfolio
+Alice K | Translation Portfolio
 I have N2 level Japanese, and translate songs on the Vocaloid Lyrics Wiki as a hobby.
 
 My translations are proofread and corrected by wiki editors through the standard translation checking process. Correction/editor credits are on the corresponding song wiki pages.
