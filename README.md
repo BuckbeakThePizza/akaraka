@@ -7,15 +7,21 @@ All of my translations are here: [VLW Translator Category](https://vocaloidlyric
 
 ## 不完全世界 (Fukanzen Sekai) - YAMAAD
 Jan. 2026
+> どうせこの世界の答えなんて<br>君次第だね<br>
+> *After all this world's answer is something<br>that's up to you, right*
 - [Translation](https://docs.google.com/spreadsheets/d/1dxX2rpIin8WjfqgHypdbq2C91g2RwS-41SGmviqZG7c/edit?gid=0#gid=0) (original and corrected versions)
 - [Song Wiki Page (with corrections)](https://vocaloidlyrics.miraheze.org/wiki/%E4%B8%8D%E5%AE%8C%E5%85%A8%E4%B8%96%E7%95%8C_(Fukanzen_Sekai))
 
 ## アイタクナイ (AITAKUNAI) - 100kai Outo
 Oct. 2025
+> 黙ってたくないないないない言葉こそ<br>叫んでしまうよ<br>
+> I don't want to stay quiet, no way, it's precisely the things I can't put into words<br>that I end up shouting, you know
 - [Translation](https://docs.google.com/spreadsheets/d/1li1y4epsnwOp6nEl3A-cf24pgRjW7GZyJ238i9nCSQ4/edit?gid=0#gid=0) (original and corrected versions)
 - [Song Wiki Page (with corrections)](https://vocaloidlyrics.miraheze.org/wiki/%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%AF%E3%83%8A%E3%82%A4_(AITAKUNAI))
 
 ## リトライ (Retry) - Hiiragi Magnetite
 Mar. 2025
+> スレスレのレスキューでスッゲェブレブレ<br>まーな 当たり前だろ<br>
+> a close call rescue, it's super blurry blurry<br>oh well, the usual
 - [Translation](https://docs.google.com/document/d/1BJjPy7Xzyp30G40IZ2iVgam8Hsypd5utdcb2bqcjb5w/edit?tab=t.0)
 - [Song Wiki Page](https://vocaloidlyrics.miraheze.org/wiki/%E3%83%AA%E3%83%88%E3%83%A9%E3%82%A4_(Retry)/Hiiragi_Magnetite)
